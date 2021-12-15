@@ -1,6 +1,7 @@
 package com.binary.search.tree;
 
 public class MyBinaryNode<T extends Comparable<T>> {
+	
 	//Instance variables
 	T data;
 	MyBinaryNode<T> left;
